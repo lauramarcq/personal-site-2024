@@ -9,7 +9,7 @@
     <div class="image-container">
       <img
         class="profile-image"
-        src="../../profile_image-removebg-preview.png"
+        src="@/assets/profile_image-removebg-preview.png"
         alt="profile-image"
       />
     </div>
