@@ -3,7 +3,7 @@
     <div class="message-container">
       <div class="message"><span>Hey</span>, I'm Laura</div>
       <div class="message-details">
-        I am a web developer from Chile, but living in Bath, UK, for the last 13 years.
+        I am a web developer from Chile living in Bath, UK for the last 13 years.
       </div>
     </div>
     <div class="image-container">
